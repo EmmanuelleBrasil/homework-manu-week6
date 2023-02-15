@@ -1,0 +1,66 @@
+h1,
+h2 {
+  color: white;
+  font-family: "Gill Sans", sans-serif;
+  font-weight: lighter;
+}
+
+h3 {
+  color: white;
+  font-weight: bolder;
+  font-family: "Gill Sans", sans-serif;
+}
+
+p {
+  color: white;
+  font-weight: bolder;
+  font-family: monospace;
+  font-size: 25px;
+}
+ul {
+  text-align: right;
+  list-style: none;
+  font-size: 30px;
+  color: white;
+  font-family: "Gill Sans", sans-serif;
+}
+footer {
+  text-align: center;
+  font-weight: bolder;
+}
+.units {
+  color: white;
+  font-weight: bolder;
+}
+.container {
+  padding: 30px;
+  margin: 40px 40px 40px 40px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  background-color: rgb(89, 168, 192);
+  background-position: center;
+}
+body {
+  background-image: linear-gradient(
+      rgba(23, 81, 241, 0.5),
+      rgba(243, 229, 28, 0.5)
+    ),
+    url("image.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+}
+.col-2 {
+  font-weight: bolder;
+}
+
+.current {
+  color: white;
+  font-weight: bolder;
+  font-size: 28px;
+}
+.coder {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 10px;
+}
