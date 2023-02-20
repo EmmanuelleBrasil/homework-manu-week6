@@ -43,13 +43,9 @@ footer {
 }
 body {
   background-image: linear-gradient(
-      rgba(23, 81, 241, 0.5),
-      rgba(243, 229, 28, 0.5)
-    ),
-    url("image.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100%;
+    rgba(23, 81, 241, 0.5),
+    rgba(243, 229, 28, 0.5)
+  );
 }
 .col-2 {
   font-weight: bolder;
